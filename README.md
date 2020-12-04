@@ -2,6 +2,12 @@
 
 Explore [this](https://lanalabs.com/en/lana-process-mining/) link for tool overview of lana lab
 
+## Process mining glossary
+
+The Process Mining Glossary by Lana Labs covers everything you need to know about Process Mining and Business Process Management. Whether starting the first process analysis project or aiming to improve your process controlling, just click on one of the interlinked glossary terms and become a process expert.
+
+Explore [here](https://lanalabs.com/en/glossary/)
+
 ## Visualization 
 
 LANA Process Mining builds a complete process model from your process data in a matter of seconds. Here you can see not only how and in how many variants your processes are actually executed in daily business. The intuitive visualization also draws your attention directly to critical values: bottlenecks, high processing times and long idle times
