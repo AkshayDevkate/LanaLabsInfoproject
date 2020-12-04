@@ -25,3 +25,8 @@ learn more [here](https://lanalabs.com/en/lana-process-mining/)
 With LANA’s flexible, customizable dashboards, you can keep track of all relevant metrics during and after analysis, whether end-to-end or focused on specific areas. Especially useful: Share dashboards with your team to have a common foundation for strategic optimization and control.
 
 learn more [here](https://lanalabs.com/en/lana-process-mining/) 
+
+
+## Lana labs process mining blogs 
+
+Explore the lana labs process mining blogs [here](https://lanalabs.com/en/process-mining-news/)
